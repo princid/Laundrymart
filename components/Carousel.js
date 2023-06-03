@@ -4,10 +4,10 @@ import { SliderBox } from "react-native-image-slider-box";
 
 const Carousel = () => {
   const images = [
-    "https://images.unsplash.com/photo-1567401893414-76b7b1e5a7a5?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8ZHJlc3Nlc3xlbnwwfDB8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60",
-    "https://images.unsplash.com/photo-1629737168222-baad8ecacebe?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fGRyZXNzZXN8ZW58MHwwfDB8fHww&auto=format&fit=crop&w=500&q=60",
-    "https://images.unsplash.com/photo-1626753846051-29b988f34fd4?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NTl8fGRyZXNzZXN8ZW58MHwwfDB8fHww&auto=format&fit=crop&w=500&q=60",
-    "https://images.unsplash.com/photo-1567967020310-9b20e78890e6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NjJ8fGRyZXNzZXN8ZW58MHwwfDB8fHww&auto=format&fit=crop&w=500&q=60",
+    "https://images.unsplash.com/photo-1626806819282-2c1dc01a5e0c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8bGF1bmRyeXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
+    "https://images.unsplash.com/photo-1638949493140-edb10b7be2f3?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTd8fGxhdW5kcnl8ZW58MHwwfDB8fHww&auto=format&fit=crop&w=500&q=60",
+    "https://images.unsplash.com/photo-1626806787461-102c1bfaaea1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fGxhdW5kcnl8ZW58MHwwfDB8fHww&auto=format&fit=crop&w=500&q=60",
+    "https://images.unsplash.com/photo-1604335398549-1b80aadd00a8?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjR8fGxhdW5kcnl8ZW58MHwwfDB8fHww&auto=format&fit=crop&w=500&q=60",
   ];
   return (
     <View>
