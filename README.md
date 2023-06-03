@@ -13,6 +13,10 @@ Expo-Location (allows reading geolocation information from the device):
 For Carousel Box (react-native-image-slider-box):
 - `npm i react-native-image-slider-box`
 
+Redux Toolkit:
+- `npm install @reduxjs/toolkit`
+- `npm add react-redux`
+
 For Navigation:
 - `npm install @react-navigation/native`
 - `npx expo install react-native-screens react-native-safe-area-context`
