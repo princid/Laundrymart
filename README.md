@@ -10,6 +10,9 @@ Project Setup :
 Expo-Location (allows reading geolocation information from the device):
 - `npx expo install expo-location`
 
+For Carousel Box (react-native-image-slider-box):
+- `npm i react-native-image-slider-box`
+
 For Navigation:
 - `npm install @react-navigation/native`
 - `npx expo install react-native-screens react-native-safe-area-context`
