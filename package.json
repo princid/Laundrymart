@@ -9,11 +9,13 @@
     "web": "expo start --web"
   },
   "dependencies": {
+    "deprecated-react-native-prop-types": "^4.1.0",
     "expo": "~48.0.18",
+    "expo-location": "~15.1.1",
     "expo-status-bar": "~1.4.4",
     "react": "18.2.0",
     "react-native": "0.71.8",
-    "expo-location": "~15.1.1"
+    "react-native-image-slider-box": "^2.0.7"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0"
