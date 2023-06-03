@@ -20,6 +20,7 @@ Redux Toolkit:
 For Navigation:
 - `npm install @react-navigation/native`
 - `npx expo install react-native-screens react-native-safe-area-context`
+- `npm install @react-navigation/native-stack`
 
 ## Resources used :
 - [Expo Icons](https://icons.expo.fyi/)
