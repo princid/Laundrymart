@@ -22,6 +22,9 @@ For Navigation:
 - `npx expo install react-native-screens react-native-safe-area-context`
 - `npm install @react-navigation/native-stack`
 
+For Pick Up Date (Horizontal Date Picker):
+- `npm i @awrminkhodaei/react-native-horizontal-datepicker`
+
 ## Resources used :
 - [Expo Icons](https://icons.expo.fyi/)
 - [Color Shades](https://htmlcolorcodes.com/color-picker/)
@@ -29,4 +32,5 @@ For Navigation:
 - [Redux Toolkit](https://redux-toolkit.js.org/introduction/getting-started)
 - [React Navigation](https://reactnavigation.org/docs/getting-started)
 - [Image Slider Carousel Box](https://www.npmjs.com/package/react-native-image-slider-box)
+- [Horizontal Date Picker](https://www.npmjs.com/package/@awrminkhodaei/react-native-horizontal-datepicker)
 
