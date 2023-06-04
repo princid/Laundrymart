@@ -29,7 +29,7 @@ For Simple Date Picker:
 - `npm install --save moment`
 
 For Firebase:
-- `npm install firebase`
+- `npx expo install firebase`
 - `npm install -g firebase-tools`
 
 For styling Buttons n all:
@@ -47,4 +47,5 @@ For styling Buttons n all:
 - [Simple Date Picker in React Native](https://dev.to/kharioki/horizontal-calendar-a-simple-date-picker-for-react-native-4h2)
 - [rneui/themed](https://www.npmjs.com/package/@rneui/themed)
 - [React Native Config](https://www.npmjs.com/package/react-native-config)
+- [Expo Firebase](https://docs.expo.dev/guides/using-firebase/)
 
