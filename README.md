@@ -34,6 +34,7 @@ For Firebase:
 
 For styling Buttons n all:
 - `npm i @rneui/themed`
+- `npm i @rneui/base`
 
 ## Resources used :
 - [Expo Icons](https://icons.expo.fyi/)
