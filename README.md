@@ -22,7 +22,7 @@ For Navigation:
 - `npx expo install react-native-screens react-native-safe-area-context`
 - `npm install @react-navigation/native-stack`
 
-For Pick Up Date (Horizontal Date Picker):
+For Pick Up Date (Horizontal Date Picker): [Delete Later]
 - `npm i @awrminkhodaei/react-native-horizontal-datepicker`
 
 For Simple Date Picker:
@@ -32,7 +32,7 @@ For Firebase:
 - `npx expo install firebase`
 - `npm install -g firebase-tools`
 
-For styling Buttons n all:
+For styling Buttons n all: [Delete Later]
 - `npm i @rneui/themed`
 - `npm i @rneui/base`
 
