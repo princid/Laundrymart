@@ -31,6 +31,7 @@ For Simple Date Picker:
 For Firebase:
 - `npx expo install firebase`
 - `npm install -g firebase-tools`
+- `npx expo customize metro.config.js`
 
 For styling Buttons n all: [Delete Later]
 - `npm i @rneui/themed`
