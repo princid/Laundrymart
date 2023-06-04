@@ -29,8 +29,8 @@ For Simple Date Picker:
 - `npm install --save moment`
 
 For Firebase:
+- `npm install firebase`
 - `npm install -g firebase-tools`
-- 
 
 ## Resources used :
 - [Expo Icons](https://icons.expo.fyi/)
