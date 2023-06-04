@@ -32,6 +32,9 @@ For Firebase:
 - `npm install firebase`
 - `npm install -g firebase-tools`
 
+For styling Buttons n all:
+- `npm i @rneui/themed`
+
 ## Resources used :
 - [Expo Icons](https://icons.expo.fyi/)
 - [Color Shades](https://htmlcolorcodes.com/color-picker/)
