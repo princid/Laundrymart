@@ -32,5 +32,5 @@ For Pick Up Date (Horizontal Date Picker):
 - [Redux Toolkit](https://redux-toolkit.js.org/introduction/getting-started)
 - [React Navigation](https://reactnavigation.org/docs/getting-started)
 - [Image Slider Carousel Box](https://www.npmjs.com/package/react-native-image-slider-box)
-- [Horizontal Date Picker](https://www.npmjs.com/package/@awrminkhodaei/react-native-horizontal-datepicker)
+- [Horizontal Date Picker](https://github.com/AwrminKhodaei/react-native-horizontal-datepicker)
 
