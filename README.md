@@ -28,6 +28,10 @@ For Pick Up Date (Horizontal Date Picker):
 For Simple Date Picker:
 - `npm install --save moment`
 
+For Firebase:
+- `npm install -g firebase-tools`
+- 
+
 ## Resources used :
 - [Expo Icons](https://icons.expo.fyi/)
 - [Color Shades](https://htmlcolorcodes.com/color-picker/)
