@@ -61,4 +61,6 @@ Order Placed Animation: (Lottie React Native)
 - [React Native Config](https://www.npmjs.com/package/react-native-config)
 - [Expo Firebase](https://docs.expo.dev/guides/using-firebase/)
 - [Lottie React Native Animation](https://docs.expo.dev/versions/latest/sdk/lottie/)
+- [Deployment Tutorial YouTbe](https://youtu.be/ByqYR1IwYKY)
+- [Expo Dev, to get the deployed QR code](https://expo.dev/)
 
