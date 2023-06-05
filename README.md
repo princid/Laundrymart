@@ -22,20 +22,17 @@ For Navigation:
 - `npx expo install react-native-screens react-native-safe-area-context`
 - `npm install @react-navigation/native-stack`
 
-For Pick Up Date (Horizontal Date Picker): [Delete Later]
-- `npm i @awrminkhodaei/react-native-horizontal-datepicker`
-
 For Simple Date Picker:
 - `npm install --save moment`
 
 For Firebase:
 - `npx expo install firebase`
 - `npm install -g firebase-tools`
-- `npx expo customize metro.config.js`
 
-For styling Buttons n all: [Delete Later]
-- `npm i @rneui/themed`
-- `npm i @rneui/base`
+Order Placed Animation: (Lottie React Native)
+- `npx expo install lottie-react-native`
+- Also add `sparkle.json` & `thumbs.json` file in your assets folder.
+
 
 ## Resources used :
 - [Expo Icons](https://icons.expo.fyi/)
@@ -49,4 +46,5 @@ For styling Buttons n all: [Delete Later]
 - [rneui/themed](https://www.npmjs.com/package/@rneui/themed)
 - [React Native Config](https://www.npmjs.com/package/react-native-config)
 - [Expo Firebase](https://docs.expo.dev/guides/using-firebase/)
+- [Lottie React Native Animation](https://docs.expo.dev/versions/latest/sdk/lottie/)
 
