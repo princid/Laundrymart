@@ -34,6 +34,13 @@ Order Placed Animation: (Lottie React Native)
 - Also add `sparkle.json` & `thumbs.json` file in your assets folder.
 
 
+## How to deploy:
+- Run this command in your terminal `npm install -g expo-cli`
+- then run `expo login`
+- then put your login credentials (username & password)
+- And once you're logged in, run `expo publish` to publish the app to the expo app store.
+- then, if it will ask "In order to publish an update, expo-updates needs to be installed. Do you want to install it now?", then just simply click "Y". It will basically insall the expo-updates.
+
 ## Resources used :
 - [Expo Icons](https://icons.expo.fyi/)
 - [Color Shades](https://htmlcolorcodes.com/color-picker/)
