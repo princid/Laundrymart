@@ -41,6 +41,12 @@ Order Placed Animation: (Lottie React Native)
 - And once you're logged in, run `expo publish` to publish the app to the expo app store.
 - then, if it will ask "In order to publish an update, expo-updates needs to be installed. Do you want to install it now?", then just simply click "Y". It will basically insall the expo-updates.
 
+## Run the app:
+- Install `Expo Go` app on your device.
+- Then scan this QR-code: <br>
+ ![image](https://github.com/princid/Laundrymart/assets/90444477/e839a37a-0a90-4140-8dd3-e22643807d24)
+- Or, open this link on your device: `exp://exp.host/@princid/laundrymart?release-channel=default`
+
 ## Resources used :
 - [Expo Icons](https://icons.expo.fyi/)
 - [Color Shades](https://htmlcolorcodes.com/color-picker/)
