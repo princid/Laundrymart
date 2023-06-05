@@ -35,7 +35,7 @@ const ProfileScreen = () => {
 
       <Pressable
         style={{
-          width: 170,
+          width: 150,
           backgroundColor: "#DE3163",
           padding: 10,
           borderRadius: 7,
@@ -53,7 +53,7 @@ const ProfileScreen = () => {
             fontWeight: "bold",
           }}
         >
-          Sign Out
+          Log Out
         </Text>
       </Pressable>
     </SafeAreaView>
