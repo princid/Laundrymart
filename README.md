@@ -43,8 +43,9 @@ Order Placed Animation: (Lottie React Native)
 
 ## Run the app:
 - Install `Expo Go` app on your device.
-- Then scan this QR-code: <br>
- ![image](https://github.com/princid/Laundrymart/assets/90444477/e839a37a-0a90-4140-8dd3-e22643807d24)
+- Then scan this QR-code: <br><br>
+ ![image](https://github.com/princid/Laundrymart/assets/90444477/e839a37a-0a90-4140-8dd3-e22643807d24) <br>
+ 
 - Or, open this link on your device: `exp://exp.host/@princid/laundrymart?release-channel=default`
 
 ## Resources used :
