@@ -1,8 +1,8 @@
-# Laundrymart
+# 👔 [Laundrymart](https://expo.dev/@princid/laundrymart)
+Laundrymart is a responsive and stylish cross-platform mobile app created using React Native Expo CLI. It has clean User Interface created for Laundry service providers/agencies and consumers can get the Laundry services by just placing an order on our app.
 
-
-## Dependencies to install :
-Project Setup :
+## 🔰 Dependencies to install :
+Expo Project Setup :
 - `npx create-expo-app laundrymart`
 - `cd laundrymart`
 - `npx expo start`
@@ -34,7 +34,21 @@ Order Placed Animation: (Lottie React Native)
 - Also add `sparkle.json` & `thumbs.json` file in your assets folder.
 
 
-## Resources used :
+## How to deploy:
+- Run this command in your terminal `npm install -g expo-cli`
+- then run `expo login`
+- then put your login credentials (username & password)
+- And once you're logged in, run `expo publish` to publish the app to the expo app store.
+- then, if it will ask "In order to publish an update, expo-updates needs to be installed. Do you want to install it now?", then just simply click "Y". It will basically insall the expo-updates.
+
+## Run the app:
+- Install `Expo Go` app on your device.
+- Then scan this QR-code: <br><br>
+ ![image](https://github.com/princid/Laundrymart/assets/90444477/e839a37a-0a90-4140-8dd3-e22643807d24) <br>
+ 
+- Or, open this link on your device: `exp://exp.host/@princid/laundrymart?release-channel=default`
+
+## 🚀 Resources used :
 - [Expo Icons](https://icons.expo.fyi/)
 - [Color Shades](https://htmlcolorcodes.com/color-picker/)
 - [Expo Location](https://docs.expo.dev/versions/latest/sdk/location/)
@@ -47,4 +61,6 @@ Order Placed Animation: (Lottie React Native)
 - [React Native Config](https://www.npmjs.com/package/react-native-config)
 - [Expo Firebase](https://docs.expo.dev/guides/using-firebase/)
 - [Lottie React Native Animation](https://docs.expo.dev/versions/latest/sdk/lottie/)
+- [Deployment Tutorial YouTbe](https://youtu.be/ByqYR1IwYKY)
+- [Expo Dev, to get the deployed QR code](https://expo.dev/)
 
