@@ -34,6 +34,16 @@ Order Placed Animation: (Lottie React Native)
 - Also add `sparkle.json` & `thumbs.json` file in your assets folder.
 
 
+## Visuals of Laundrymart:
+![image](https://github.com/princid/Laundrymart/assets/90444477/1b4912df-b4fa-4271-9843-c8c6e7ea6d9f)
+![image](https://github.com/princid/Laundrymart/assets/90444477/83dbb096-0e89-4c50-989b-e08c73f17d3f)
+![image](https://github.com/princid/Laundrymart/assets/90444477/61a9e1a4-fe09-476b-be0d-0ce0e5c9d8ce)
+![image](https://github.com/princid/Laundrymart/assets/90444477/931d6106-5a4f-46e4-9b6c-43048ad0b501)
+![image](https://github.com/princid/Laundrymart/assets/90444477/8a2bc7a9-e24a-4ea4-ae23-e078b9548e4e)
+![image](https://github.com/princid/Laundrymart/assets/90444477/6b0b71fa-f446-4b34-8992-4f1c81905e7f)
+
+
+
 ## How to deploy:
 - Run this command in your terminal `npm install -g expo-cli`
 - then run `expo login`
