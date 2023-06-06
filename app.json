@@ -2,12 +2,13 @@
   "expo": {
     "name": "laundrymart",
     "slug": "laundrymart",
+    "description": "Your online Laundry service app.",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/Laundrymart.png",
     "userInterfaceStyle": "light",
     "splash": {
-      "image": "./assets/splash.png",
+      "image": "./assets/Laundrymart.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
