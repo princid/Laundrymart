@@ -1,7 +1,7 @@
-# Laundrymart
-Laundrymart is a responsive and stylish cross-platform mobile app created using React Native Expo CLI. It has clean User Interface created for Laundry service providers/agencies.
+# 👔 Laundrymart
+Laundrymart is a responsive and stylish cross-platform mobile app created using React Native Expo CLI. It has clean User Interface created for Laundry service providers/agencies and consumers can get the Laundry services by just placing an order on our app.
 
-## Dependencies to install :
+## 🔰 Dependencies to install :
 Expo Project Setup :
 - `npx create-expo-app laundrymart`
 - `cd laundrymart`
@@ -48,7 +48,7 @@ Order Placed Animation: (Lottie React Native)
  
 - Or, open this link on your device: `exp://exp.host/@princid/laundrymart?release-channel=default`
 
-## Resources used :
+## 🚀 Resources used :
 - [Expo Icons](https://icons.expo.fyi/)
 - [Color Shades](https://htmlcolorcodes.com/color-picker/)
 - [Expo Location](https://docs.expo.dev/versions/latest/sdk/location/)
