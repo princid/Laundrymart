@@ -62,7 +62,7 @@ Order Placed Animation: (Lottie React Native)
 - then run `expo login`
 - then put your login credentials (username & password)
 - And once you're logged in, run `expo publish` to publish the app to the expo app store.
-- then, if it will ask "In order to publish an update, expo-updates needs to be installed. Do you want to install it now?", then just simply click "Y". It will basically insall the expo-updates.
+- then, if it will ask "In order to publish an update, expo-updates needs to be installed. Do you want to install it now?", then just simply click "Y". It will basically install the expo-updates.
 
 ## Run the app:
 - Install `Expo Go` app on your device.
